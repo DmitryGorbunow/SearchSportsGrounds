@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Booking View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="Booking" id="Y6W-OH-hqX" customClass="BookingViewController" customModule="_65___24___football" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="783"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Имя" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Uzu-Zj-CVL">
+                                <rect key="frame" x="15" y="102" width="363" height="50"/>
+                                <color key="backgroundColor" name="textFieldColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="shH-eT-z03"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Телефон" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="QcF-SA-pMT">
+                                <rect key="frame" x="15" y="166" width="363" height="50"/>
+                                <color key="backgroundColor" name="textFieldColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="jTF-cg-npS"/>
+                                    <constraint firstAttribute="height" constant="50" id="w0C-bc-BFt"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" keyboardType="phonePad" textContentType="tel"/>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Почта" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Yls-RO-nbn">
+                                <rect key="frame" x="15" y="230" width="363" height="50"/>
+                                <color key="backgroundColor" name="textFieldColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="iLK-qd-GxO"/>
+                                    <constraint firstAttribute="height" constant="50" id="jyB-MM-tHP"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QoJ-zV-hdj">
+                                <rect key="frame" x="20" y="310" width="353" height="50"/>
+                                <color key="backgroundColor" name="YellowColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="fum-kQ-qux"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Забронировать">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="bookingButtonAction:" destination="Y6W-OH-hqX" eventType="touchUpInside" id="qZP-Hj-ja8"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="QcF-SA-pMT" secondAttribute="trailing" constant="15" id="1wz-Ij-xLu"/>
+                            <constraint firstItem="Uzu-Zj-CVL" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="topMargin" constant="43" id="CGz-fy-eM6"/>
+                            <constraint firstItem="Yls-RO-nbn" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="15" id="CQJ-67-yTg"/>
+                            <constraint firstItem="QcF-SA-pMT" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="15" id="JPd-eL-H9s"/>
+                            <constraint firstItem="QoJ-zV-hdj" firstAttribute="top" secondItem="Yls-RO-nbn" secondAttribute="bottom" constant="30" id="L7s-IR-ziu"/>
+                            <constraint firstItem="QoJ-zV-hdj" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="NFi-O6-jNC"/>
+                            <constraint firstItem="Uzu-Zj-CVL" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="15" id="bPp-Yy-6d5"/>
+                            <constraint firstItem="QcF-SA-pMT" firstAttribute="top" secondItem="Uzu-Zj-CVL" secondAttribute="bottom" constant="14" id="cHj-IC-cjs"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="Yls-RO-nbn" secondAttribute="trailing" constant="15" id="iVd-Cu-DdN"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="QoJ-zV-hdj" secondAttribute="trailing" constant="20" id="lK4-If-hQ4"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="Uzu-Zj-CVL" secondAttribute="trailing" constant="15" id="luP-1A-ga5"/>
+                            <constraint firstItem="Yls-RO-nbn" firstAttribute="top" secondItem="QcF-SA-pMT" secondAttribute="bottom" constant="14" id="rfe-Jo-YlD"/>
+                        </constraints>
+                    </view>
+                    <modalPageSheetSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <connections>
+                        <outlet property="bookingButton" destination="QoJ-zV-hdj" id="kX6-TI-vhD"/>
+                        <outlet property="emailTextField" destination="Yls-RO-nbn" id="alL-wO-dbP"/>
+                        <outlet property="nameTextField" destination="Uzu-Zj-CVL" id="eXb-DP-zLu"/>
+                        <outlet property="phoneTextField" destination="QcF-SA-pMT" id="VJ6-NE-jjn"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1971.7557251908397" y="-2.1126760563380285"/>
+        </scene>
+    </scenes>
+    <resources>
+        <namedColor name="YellowColor">
+            <color red="0.89800000190734863" green="0.80000001192092896" blue="0.29399999976158142" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="textFieldColor">
+            <color red="0.96200001239776611" green="0.96200001239776611" blue="0.96200001239776611" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="MF3-3J-Ep6">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Welcome View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="Welcome" id="Y6W-OH-hqX" customClass="WelcomeViewController" customModule="_65___24___football" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Onboarding" translatesAutoresizingMaskIntoConstraints="NO" id="uSq-js-njj">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mIk-68-hDt">
+                                <rect key="frame" x="15" y="790" width="384" height="50"/>
+                                <color key="backgroundColor" name="YellowColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="HQi-N7-q1F"/>
+                                    <constraint firstAttribute="height" constant="50" id="vhu-RQ-obo"/>
+                                </constraints>
+                                <color key="tintColor" name="YellowColor"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Продолжить"/>
+                                <connections>
+                                    <action selector="continueButtonAction:" destination="Y6W-OH-hqX" eventType="touchUpInside" id="Cke-GK-Ac9"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dN8-4Q-9Dk">
+                                <rect key="frame" x="15" y="654.5" width="384" height="105.5"/>
+                                <string key="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <color key="textColor" name="YellowColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="uSq-js-njj" secondAttribute="bottom" id="CFv-uV-Fi7"/>
+                            <constraint firstItem="mIk-68-hDt" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="15" id="IR4-si-Yhw"/>
+                            <constraint firstItem="uSq-js-njj" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="RKF-SD-n1V"/>
+                            <constraint firstItem="mIk-68-hDt" firstAttribute="top" secondItem="dN8-4Q-9Dk" secondAttribute="bottom" constant="30" id="YjJ-sM-8Xe"/>
+                            <constraint firstAttribute="bottom" secondItem="mIk-68-hDt" secondAttribute="bottom" constant="56" id="ZuG-1W-mHx"/>
+                            <constraint firstItem="dN8-4Q-9Dk" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="15" id="bgZ-Zx-ZMU"/>
+                            <constraint firstItem="uSq-js-njj" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="top" id="cCV-ft-nts"/>
+                            <constraint firstItem="uSq-js-njj" firstAttribute="trailing" secondItem="vDu-zF-Fre" secondAttribute="trailing" id="lCg-dB-oyj"/>
+                            <constraint firstAttribute="trailing" secondItem="dN8-4Q-9Dk" secondAttribute="trailing" constant="15" id="tH1-HS-gLp"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="mIk-68-hDt" secondAttribute="trailing" constant="15" id="txp-7t-eEH"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="Wak-ev-SZL"/>
+                    <connections>
+                        <outlet property="continueButton" destination="mIk-68-hDt" id="lmF-yP-bjx"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5562.3188405797109" y="-2.6785714285714284"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="RRc-sz-BZP">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="MF3-3J-Ep6" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="XcC-rf-gBS">
+                        <rect key="frame" x="0.0" y="48" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Y6W-OH-hqX" kind="relationship" relationship="rootViewController" id="TU6-DL-YOR"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mYg-cX-c1g" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4652.1739130434789" y="-2.6785714285714284"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Onboarding" width="375" height="812"/>
+        <namedColor name="YellowColor">
+            <color red="0.89800000190734863" green="0.80000001192092896" blue="0.29399999976158142" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

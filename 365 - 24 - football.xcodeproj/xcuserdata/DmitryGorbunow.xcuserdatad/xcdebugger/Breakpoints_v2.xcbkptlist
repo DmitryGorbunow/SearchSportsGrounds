@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D86D4BDA-6C5E-44D0-A4C0-AA5FC6736F44"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09D144BB-7162-465A-882F-B2B9B39D6C22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "365 - 24 - football/Controllers/MapViewController/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "collectionView(_:didDeselectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09D144BB-7162-465A-882F-B2B9B39D6C22 - c22ebe5b726dca6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_65___24___football.MapViewController.collectionView(_: __C.UICollectionView, didDeselectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "365 - 24 - football"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DmitryGorbunow/Desktop/Xcode%20projects/365%20-%2024%20-%20football/365%20-%2024%20-%20football/Controllers/MapViewController/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "09D144BB-7162-465A-882F-B2B9B39D6C22 - c22ebe5b726dca6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_65___24___football.MapViewController.collectionView(_: __C.UICollectionView, didDeselectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "365 - 24 - football"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DmitryGorbunow/Desktop/Xcode%20projects/365%20-%2024%20-%20football/365%20-%2024%20-%20football/Controllers/MapViewController/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

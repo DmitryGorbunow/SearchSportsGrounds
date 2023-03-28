@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>МБУ СШ Юность</string>
+		<key>Latitude</key>
+		<real>56.825983</real>
+		<key>Longitude</key>
+		<real>60.598689</real>
+		<key>Address</key>
+		<string>ул. Куйбышева, 32А, корп. 3</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4719974/2a000001774237a94a30d728569cf13070ed/XXL_height</string>
+			<string>https://avatars.mds.yandex.net/get-altay/5482460/2a0000017f5484acaca53a8886cebb16901c/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string>Спортивная школа, расположенная в Екатеринбурге. Школа готовит в том числе спортсменов в сборные команды России. Среди участников и выпускников спортшколы есть победители российских и международных соревнований, чемпионы Европы и мира, призёры Олимпийских игр.</string>
+		<key>OpeningHours</key>
+		<string>06:00 - 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 257-40-43</string>
+		<key>Website</key>
+		<string>http://unost-ek.com/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Метеор</string>
+		<key>Latitude</key>
+		<real>56.796809</real>
+		<key>Longitude</key>
+		<real>60.563521</real>
+		<key>Address</key>
+		<string>улица Начдива Онуфриева, 43</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5587495/2a0000017e2909666fb1f4f35b88705ae795/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/5583647/2a0000017e2f6e543c12929248b658eb81d0/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>10:00 - 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (908) 914-46-25</string>
+		<key>Website</key>
+		<string>http://clubmeteor.ru/meteor96/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Футболика</string>
+		<key>Latitude</key>
+		<real>56.847236</real>
+		<key>Longitude</key>
+		<real>60.595904</real>
+		<key>Address</key>
+		<string>Олимпийская наб., 3</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5235198/2a0000017b58b1771949145e28b1b4e0cac8/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/5485733/2a0000017dcabdc3cfdcb1095950715097c2/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string>Спортивная школаспортивный клуб, секция</string>
+		<key>OpeningHours</key>
+		<string>10:00 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>8 (800) 550-93-82</string>
+		<key>Website</key>
+		<string>https://footbolika.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Футбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.852533</real>
+		<key>Longitude</key>
+		<real>60.566783</real>
+		<key>Address</key>
+		<string>микрорайон Заречный</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/6249106/2a00000182a853d54772fa2f6ee0612dfae0/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Екатеринбург Арена</string>
+		<key>Latitude</key>
+		<real>56.832476</real>
+		<key>Longitude</key>
+		<real>60.573601</real>
+		<key>Address</key>
+		<string>ул. Репина, 5</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1371846/2a000001639772c16f2640b727296adb0a5b/XXXL</string>
+			<string>https://ekt-arena.ru/upload/medialibrary/973/97373271fac98f80ce5ceaa0c6369a75.png</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string>Центральный стадион
+Крупнейшее в Екатеринбурге спортивное сооружение, до 2015 года - многофункциональный, после проведения последней реконструкции - исключительно футбольный стадион. Стадион построен в 1953-1957 годах, с 2006 по 2011 год находился на реконструкции.
+Дата постройки:1957 г.</string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 376-08-00</string>
+		<key>Website</key>
+		<string>https://ekt-arena.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Лидер</string>
+		<key>Latitude</key>
+		<real>56.822338</real>
+		<key>Longitude</key>
+		<real>60.55791</real>
+		<key>Address</key>
+		<string>Черкасская ул., 9</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/2752367/2a0000017023a181954a7411770f9686dae5/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/2385630/2a0000017023a1828659505b7fb12e4b7518/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string>Наш центр — это:
+— Индивидуальные тренировки для детей и взрослых
+направленные на раскрытие потенциала игрока
+— Новейшие тренажёры на развитие качества
+передач и точности ударов
+— Талантливые и опытные тренера
+— Удобное расположение
+— Есть хаммам
+— 4 зала</string>
+		<key>OpeningHours</key>
+		<string>08:00 – 00:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (932) 615-96-13</string>
+		<key>Website</key>
+		<string>https://taplink.cc/leaderfootball1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Футболист</string>
+		<key>Latitude</key>
+		<real>56.802511</real>
+		<key>Longitude</key>
+		<real>60.557501</real>
+		<key>Address</key>
+		<string>ул. Громова, 138А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/906486/2a00000165a34df0575316d300bf220c9e39/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>19:30 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (909) 003-30-30</string>
+		<key>Website</key>
+		<string>http://footacadem.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Детско-юношеская спортивная школа № 2</string>
+		<key>Latitude</key>
+		<real>56.795128</real>
+		<key>Longitude</key>
+		<real>60.58723</real>
+		<key>Address</key>
+		<string>бул. Денисова-Уральского, 3А, микрорайон Юго-Западный</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/758053/2a00000161fdc191176200358eb3318c8f08/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/1546430/2a0000016b8c6fa7321b6ab2db05f2bc6ac3/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 267-45-26</string>
+		<key>Website</key>
+		<string>https://interstadium.uralschool.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Урал</string>
+		<key>Latitude</key>
+		<real>56.894335</real>
+		<key>Longitude</key>
+		<real>60.574571</real>
+		<key>Address</key>
+		<string>ул. Бакинских Комиссаров, 6</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/7690462/2a00000185a503b5722c9ce347b06a9d3a31/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string>09:00 – 13:00, 14:00 – 17:00</string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 227-66-34</string>
+		<key>Website</key>
+		<string>http://урал.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Футбольный манеж Урал</string>
+		<key>Latitude</key>
+		<real>56.892663</real>
+		<key>Longitude</key>
+		<real>60.57908</real>
+		<key>Address</key>
+		<string>Фестивальная ул., 10</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/224414/2a0000015c20f13d2c0d9d507c9a28dd303c/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/492546/2a00000186794dc808496713609541724806/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Футбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>06:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 367-19-57</string>
+		<key>Website</key>
+		<string>http://urfaso.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ГАУ СО Дворец игровых видов спорта</string>
+		<key>Latitude</key>
+		<real>56.847093</real>
+		<key>Longitude</key>
+		<real>60.595851</real>
+		<key>Address</key>
+		<string>Олимпийская наб., 3</string>
+		<key>Images</key>
+		<array>
+			<string>https://www.oblgazeta.ru/media/filer_public_thumbnails/filer_public/2022/10/03/8fc45c96-b8f8-4651-853a-e43e0436fd31-PAV_2452.png__1024x692_q85_subsampling-2.jpg.1024x0_q85.jpg.pagespeed.ce.9NuSCj4wNx.jpg</string>
+			<string>https://avatars.mds.yandex.net/get-altay/1784631/2a0000016b8c631373b4d5a0321bb732b8e4/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string>Спортивный комплекс, расположенный в центральной части Екатеринбурга, возле станции метро «Динамо». Вместимость главной арены составляет 5000 зрителей. Деятельность комплекса ориентирована на проведение соревнований по волейболу, баскетболу, индор-хоккею и мини-футболу</string>
+		<key>OpeningHours</key>
+		<string>09:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 359-37-63</string>
+		<key>Website</key>
+		<string>http://divsport.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Уралочка</string>
+		<key>Latitude</key>
+		<real>56.863069</real>
+		<key>Longitude</key>
+		<real>60.544867</real>
+		<key>Address</key>
+		<string>Техническая улица, 16А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/7652307/2a000001843045cb8a3465ba43479b3934d5/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 380-01-53</string>
+		<key>Website</key>
+		<string>http://уралочка.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Олимпиец</string>
+		<key>Latitude</key>
+		<real>56.812564</real>
+		<key>Longitude</key>
+		<real>60.576694</real>
+		<key>Address</key>
+		<string>ул. Шаумяна, 80С</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1909414/2a0000018696d65d620fd133a7f70d22ad45/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>10:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 234-64-45</string>
+		<key>Website</key>
+		<string>http://www.uor-ekb.ru/ob-uchilishhe/struktura-uor/usk-olimpiec/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Локомотив-Изумруд</string>
+		<key>Latitude</key>
+		<real>56.837524</real>
+		<key>Longitude</key>
+		<real>60.587372</real>
+		<key>Address</key>
+		<string>ул. Сакко и Ванцетти, 38</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5448678/2a0000017d7afb810eca28033aae51907d1f/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 18:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 333-57-71</string>
+		<key>Website</key>
+		<string>http://локомотив-изумруд.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Луч</string>
+		<key>Latitude</key>
+		<real>56.816758</real>
+		<key>Longitude</key>
+		<real>60.635657</real>
+		<key>Address</key>
+		<string>ул. Ткачей, 11</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1007647/2a00000184c99bb94219c3c373f72bb940f1/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 254-22-87</string>
+		<key>Website</key>
+		<string>http://ekb-luch.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Honey Volley Park</string>
+		<key>Latitude</key>
+		<real>56.829374</real>
+		<key>Longitude</key>
+		<real>60.672708</real>
+		<key>Address</key>
+		<string>Сибирский тракт (дублёр), 2</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5598654/2a0000017e5cfc04f5ddb543d8ad774dee22/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>10:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (912) 674-74-96</string>
+		<key>Website</key>
+		<string>http://honeyvolleypark.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Поляна</string>
+		<key>Latitude</key>
+		<real>56.885876</real>
+		<key>Longitude</key>
+		<real>60.637815</real>
+		<key>Address</key>
+		<string>улица Старых Большевиков, 2Ак6</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1024093/2a000001612d5a2d95109693fc1f679051ca/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 00:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 228-44-00</string>
+		<key>Website</key>
+		<string>https://minipole.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Академия волейбола Н. В. Карполя</string>
+		<key>Latitude</key>
+		<real>56.852729</real>
+		<key>Longitude</key>
+		<real>60.573505</real>
+		<key>Address</key>
+		<string>улица Машинистов, 1А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5099617/2a0000018215364f72315bc3628381b2e954/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/1045589/2a000001854db74fdee9ce76f690f6f2cdfa/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 13:00, 13:48 – 18:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 227-46-00</string>
+		<key>Website</key>
+		<string>https://карполь.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Волейбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.82051</real>
+		<key>Longitude</key>
+		<real>60.594025</real>
+		<key>Address</key>
+		<string>парк Зелёная Роща</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5380071/2a0000017b258b86997d68f3f32a73ca9ad8/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>06:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Волейбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.809695</real>
+		<key>Longitude</key>
+		<real>60.595506</real>
+		<key>Address</key>
+		<string>жилой район Южный</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4303558/2a00000179495ddab79d1d49839a0977f797/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Волейбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Уралмаш Kids</string>
+		<key>Latitude</key>
+		<real>56.848966</real>
+		<key>Longitude</key>
+		<real>60.569059</real>
+		<key>Address</key>
+		<string>ул. Колмогорова, 52А</string>
+		<key>Images</key>
+		<array>
+			<string>https://static-pano.maps.yandex.ru/v1/?panoid=1435046229_661474242_23_1591357452&amp;size=500%2C240&amp;azimuth=70&amp;tilt=10&amp;api_key=maps&amp;signature=erBberfIISDMu6TIdWwCUeUVMpb0vhzAhNF2oAXCJ-0=</string>
+			<string>https://avatars.mds.yandex.net/get-altay/6334827/2a0000017f8805fa438487cb25d15aeeb7ec/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>10:00 – 18:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (989) 713-81-21</string>
+		<key>Website</key>
+		<string>https://uralmash-kids.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>World Class</string>
+		<key>Latitude</key>
+		<real>56.832358</real>
+		<key>Longitude</key>
+		<real>60.61744</real>
+		<key>Address</key>
+		<string>Красноармейская улица, 64</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1352335/2a00000165207115568f05fa0df528a27937/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>07:00 – 00:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 317-11-36</string>
+		<key>Website</key>
+		<string>https://special.worldclass.ru/center/?utm_campaign=wc_mobile_ycart_d-m_gen_ekb_main_clubs_aon&amp;utm_medium=cpp&amp;utm_source=yandex_carty</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Баскетбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.826147</real>
+		<key>Longitude</key>
+		<real>60.621212</real>
+		<key>Address</key>
+		<string>ул. Колмогорова, 52А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4324292/2a00000179edb84eb19eb19afd45d9171c90/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Баскетбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.845939</real>
+		<key>Longitude</key>
+		<real>60.600845</real>
+		<key>Address</key>
+		<string>жилой район Центральный</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4633583/2a00000178f7f80a0c2addaea929273361ac/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Баскетбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.830561</real>
+		<key>Longitude</key>
+		<real>60.586328</real>
+		<key>Address</key>
+		<string>жилой район Центральный</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4080739/2a00000177a0ddac2a3bdabf673cd1f87812/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Victory Спорт</string>
+		<key>Latitude</key>
+		<real>56.904171</real>
+		<key>Longitude</key>
+		<real>60.568009</real>
+		<key>Address</key>
+		<string>Республиканская улица, 1А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5533948/2a0000017edd4ece15ea68da2d5bbbe57c0b/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 317-90-60</string>
+		<key>Website</key>
+		<string>https://victorysport.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Баскетбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.879348</real>
+		<key>Longitude</key>
+		<real>60.517565</real>
+		<key>Address</key>
+		<string>микрорайон Старая Сортировка</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4581272/2a0000017959e0085593e3f37b20d229cc92/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ДЮСШ № 3 им. А. Д. Мышкина</string>
+		<key>Latitude</key>
+		<real>56.835042</real>
+		<key>Longitude</key>
+		<real>60.627974</real>
+		<key>Address</key>
+		<string>улица Бажова, 132</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/2761244/2a0000017118d644d88f4b145cca10367464/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 262-62-50</string>
+		<key>Website</key>
+		<string>http://дюсш3.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Баскетбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.794094</real>
+		<key>Longitude</key>
+		<real>60.584223</real>
+		<key>Address</key>
+		<string>жилой район Юго-Западный</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1594075/2a0000016e0cdeaa2198ac7c8dff33c61bfa/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Баскетбольная площадка</string>
+		<key>Latitude</key>
+		<real>56.762807</real>
+		<key>Longitude</key>
+		<real>60.588531</real>
+		<key>Address</key>
+		<string>улица Умельцев, 1Д</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4454943/2a0000017b1c768c79cad40227e9a23c0e5a/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Баскетбол</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Datsyuk Arena</string>
+		<key>Latitude</key>
+		<real>56.825964</real>
+		<key>Longitude</key>
+		<real>60.597948</real>
+		<key>Address</key>
+		<string>ул. Куйбышева, 32А, стр. 2</string>
+		<key>Images</key>
+		<array>
+			<string>https://s-promo.ru/wp-content/uploads/2018/06/EFR_8609-e1571822096695.jpg</string>
+			<string>https://avatars.mds.yandex.net/get-altay/5538812/2a000001848ee341ab7415c1c2d64f48c38d/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>07:00 – 01:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 251-21-55</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Автомобилист</string>
+		<key>Latitude</key>
+		<real>56.817101</real>
+		<key>Longitude</key>
+		<real>60.595259</real>
+		<key>Address</key>
+		<string>улица Большакова, 90</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/6928818/2a0000018419c886dde4177285ba1db5c132/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/6333331/2a0000017f6c4f9456f0fea3c0340e0ed804/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 283-03-33</string>
+		<key>Website</key>
+		<string>http://www.hc-avto.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>академия Хоккея Спартаковец</string>
+		<key>Latitude</key>
+		<real>56.834816</real>
+		<key>Longitude</key>
+		<real>60.625958</real>
+		<key>Address</key>
+		<string>улица Энгельса, 31А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/8133749/2a0000018610fad22fb88296815e20e0585c/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/7186075/2a0000018610fa8f02066005f1efa0e50b6d/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>06:00 – 00:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 223-22-02</string>
+		<key>Website</key>
+		<string>http://дюсш-спартаковец.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Тренировочный хоккейный центр</string>
+		<key>Latitude</key>
+		<real>56.805326</real>
+		<key>Longitude</key>
+		<real>60.487061</real>
+		<key>Address</key>
+		<string>Лиственная улица, 65</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4797538/2a0000017968ed8cbda5ed1b7b598094cd38/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (922) 035-54-44</string>
+		<key>Website</key>
+		<string>https://hockey-ekb.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Факел</string>
+		<key>Latitude</key>
+		<real>56.793511</real>
+		<key>Longitude</key>
+		<real>60.768716</real>
+		<key>Address</key>
+		<string>Латвийская улица, 35</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5487188/2a0000017d5193dd6ea92ee973eee3d9f60a/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/5495309/2a0000017ed7824c5d0737f95f26a0582a98/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 289-14-75</string>
+		<key>Website</key>
+		<string>http://факел.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Локомотив</string>
+		<key>Latitude</key>
+		<real>56.878087</real>
+		<key>Longitude</key>
+		<real>60.517654</real>
+		<key>Address</key>
+		<string>микрорайон Старая Сортировка</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1032555/2a00000161fdcdd6a91a9b6b145d5f966a6f/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>06:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 344-81-79</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Детский хоккейный клуб Пионер</string>
+		<key>Latitude</key>
+		<real>56.855706</real>
+		<key>Longitude</key>
+		<real>60.638822</real>
+		<key>Address</key>
+		<string>Советская улица, 41</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/7668046/2a00000183efa7e879ba0c00fbcc2841a924/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>18:00 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (922) 291-17-02</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Спортивный комбинат Урал</string>
+		<key>Latitude</key>
+		<real>56.85531</real>
+		<key>Longitude</key>
+		<real>60.663276</real>
+		<key>Address</key>
+		<string>жилой район Втузгородок</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5380071/2a000001824dc1677d27002161a65a248192/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 227-57-47</string>
+		<key>Website</key>
+		<string>http://sk-ural.su/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Физкультурно-оздоровительный комплекс Чкаловский</string>
+		<key>Latitude</key>
+		<real>56.764863</real>
+		<key>Longitude</key>
+		<real>60.69793</real>
+		<key>Address</key>
+		<string>жилой район Химмаш</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/6222916/2a0000017f0cf6166b750f3828dd9f3ed35b/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/7383884/2a000001830e4bfce3be5cbc0735e71a3e70/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 227-99-17</string>
+		<key>Website</key>
+		<string>http://фокчкаловский.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ледовая арена имени Александра Козицына</string>
+		<key>Latitude</key>
+		<real>56.969224</real>
+		<key>Longitude</key>
+		<real>60.57673</real>
+		<key>Address</key>
+		<string>Успенский проспект, 4</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5476645/2a0000017cc6ecc47b5859edc90785f2e521/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/2363990/2a0000017c3f4397ec49c0441ba34a56f956/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Хоккей</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (34368) 7-82-02</string>
+		<key>Website</key>
+		<string>https://arenaled.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>TopTennis</string>
+		<key>Latitude</key>
+		<real>56.836735</real>
+		<key>Longitude</key>
+		<real>60.65523</real>
+		<key>Address</key>
+		<string>ул. Коминтерна, 16</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4080517/2a0000017a342e6c915c2d03d79d54c498f3/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/4303674/2a0000017a342bd96f1af7c965c7083e495a/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>07:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (912) 033-57-15</string>
+		<key>Website</key>
+		<string>http://toptennis.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Теннисный корт</string>
+		<key>Latitude</key>
+		<real>56.995616</real>
+		<key>Longitude</key>
+		<real>60.595784</real>
+		<key>Address</key>
+		<string>село Балтым</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/2804357/2a00000171395a01e7f2a131d43a79b57d50/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/2812564/2a00000171395a0fd1520a6b978005eba51a/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Луна</string>
+		<key>Latitude</key>
+		<real>56.817247</real>
+		<key>Longitude</key>
+		<real>60.66542</real>
+		<key>Address</key>
+		<string>Сибирский тракт, 34Бк1</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/2355061/2a000001752ff32dbbe616c90063a1154583/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (912) 204-02-02</string>
+		<key>Website</key>
+		<string>http://luna66.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Уральская теннисная академия</string>
+		<key>Latitude</key>
+		<real>56.75366</real>
+		<key>Longitude</key>
+		<real>60.62415</real>
+		<key>Address</key>
+		<string>Бисертская улица, 128</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/216588/2a0000015b175433fd58f24f6cecb442ce22/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/200322/2a0000015b17544ad96c7cddfd11858821e6/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 223-55-15</string>
+		<key>Website</key>
+		<string>https://vk.com/utatennis</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Уктусские горы</string>
+		<key>Latitude</key>
+		<real>56.773092</real>
+		<key>Longitude</key>
+		<real>60.642321</real>
+		<key>Address</key>
+		<string>Зимняя улица, 27/1</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1992662/2a00000174b9cd1f3a1135a38d054dd260f3/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/2838749/2a00000174b9cd223c8932005303fa34d3c4/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (912) 030-01-08</string>
+		<key>Website</key>
+		<string>http://uktus-sport.ru/sportivnye-obekty/sportivnyy-kompleks-uktusskie-gory/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Теннисный клуб Скворцова Андрея</string>
+		<key>Latitude</key>
+		<real>56.817104</real>
+		<key>Longitude</key>
+		<real>60.636181</real>
+		<key>Address</key>
+		<string>улица Ткачей, 11</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4404605/2a0000017753a56c0a67bf277fd2cf2b9fc2/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (904) 987-54-12</string>
+		<key>Website</key>
+		<string>http://tennis-a.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Теннисный корт</string>
+		<key>Latitude</key>
+		<real>56.801016</real>
+		<key>Longitude</key>
+		<real>60.592242</real>
+		<key>Address</key>
+		<string>жилой комплекс Московский Квартал</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1879929/2a0000016e10b73ee9933afe71a045f518bf/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>Круглосуточно</string>
+		<key>PhoneNumber</key>
+		<string></string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>МБОУ ДО СШ № 8 Локомотив, отделение тенниса</string>
+		<key>Latitude</key>
+		<real>56.811878</real>
+		<key>Longitude</key>
+		<real>60.578524</real>
+		<key>Address</key>
+		<string>улица Шаумяна, 80А</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1532977/2a0000016970db9b2d5560eaf68bb516bd9a/XXXL</string>
+			<string>https://avatars.mds.yandex.net/get-altay/1881447/2a0000016a48f2b8ca57c4f8caac5f3054bf/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 21:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (343) 384-06-06 (доб. 1)</string>
+		<key>Website</key>
+		<string>http://сш8локомотив.екатеринбург.рф/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Теннис Урал</string>
+		<key>Latitude</key>
+		<real>56.850436</real>
+		<key>Longitude</key>
+		<real>60.634479</real>
+		<key>Address</key>
+		<string>жилой район Пионерский</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/4234174/2a00000181b511b9a01ce91f74869fb90617/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>08:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (904) 389-30-10</string>
+		<key>Website</key>
+		<string>https://tennisural.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Теннис для детей и взрослых</string>
+		<key>Latitude</key>
+		<real>56.885618</real>
+		<key>Longitude</key>
+		<real>60.630527</real>
+		<key>Address</key>
+		<string>улица Стачек, 3</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/1970665/2a0000016f519e188b65d09b5fe573b165cc/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>09:00 – 22:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (992) 022-59-00</string>
+		<key>Website</key>
+		<string>http://tennis-ekb.ru/</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Теннисный корт</string>
+		<key>Latitude</key>
+		<real>56.893655</real>
+		<key>Longitude</key>
+		<real>60.58447</real>
+		<key>Address</key>
+		<string>жилой район Уралмаш</string>
+		<key>Images</key>
+		<array>
+			<string>https://avatars.mds.yandex.net/get-altay/5296145/2a0000017b1cdbf86bb11f3d24cc3ed4faee/XXXL</string>
+		</array>
+		<key>Category</key>
+		<string>Теннис</string>
+		<key>Description</key>
+		<string></string>
+		<key>OpeningHours</key>
+		<string>07:00 – 23:00</string>
+		<key>PhoneNumber</key>
+		<string>+7 (912) 211-02-04</string>
+		<key>Website</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
